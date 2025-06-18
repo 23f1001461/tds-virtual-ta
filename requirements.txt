@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+aiohttp
+numpy
+python-dotenv
+pydantic
+beautifulsoup4
+html2text
+tqdm
+markdown
+markdownify
+openai
+playwright
+python-multipart
+setuptools
+chromadb
